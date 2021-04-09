@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LidiaRJ
+- 👀 I’m interested in Frontend Web Development 
+- 🌱 I’m currently learning HTML, CSS, SASS, JavaScript, Flexbox and Grid layout for responsive design. 
+- 💞️ I’m looking to collaborate on newbie projects to keep building my skills
+- 📫 How to reach me ...
