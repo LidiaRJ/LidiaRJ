@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LidiaRJ
-- 👀 I’m a Frontend Web Development in process.
-- 🌱 I’m currently learning HTML, CSS, SASS and Vanilla JavaScript.
-- 💞️ I’m looking to collaborate on newbie projects to keep building my skills and learn from other developers' experiences.
-- 📫 You can reach out to me at lidia.rj10@gmail.com | (linkedin)[HTTP://wwww.linkedin.com/lidiajimeno]
+- 👋 Interested in the transportation, and entertainment industries and the current changes in their business models.
+- 👀 I’m passionate about user behavior and trends, and how AI is changing the way humans interact with new technologies in their everyday lives. 
+- 🌱 Growing my skills in Excel, and SQL. 
+- 💞️ My background is in Mass Media and UI/UX design for SaaS. 
+- 📫 You can reach out to me at lidia.rj10@gmail.com | HTTP://wwww.linkedin.com/lidiajimeno
