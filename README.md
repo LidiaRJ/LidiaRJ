@@ -7,7 +7,7 @@ Product designer turned Data analyst with 4+ years of experience delivering SaaS
 ✨ I’m fascinated by how data-driven insights can drive strategic decisions in user retention rates and business revenue growth.   
 🎯 Interested in the transportation, and entertainment industries and the current changes in their business models.   
 📊 Currently enrolled in TripleTen's Business Intelligence Analytics boot camp, with experience on more than +6 independent technical projects.  
-🤓 Participated in a Code Pudding challenge to analyze and identify trends in 124 years of Olympic Games data, focusing on the evolution of female participation 
+🤓 Participated in a Code Pudding challenge to analyze and identify trends in 124 years of Olympic Games data, focusing on the evolution of female participation.   
 🚀 Exploring the intersection of product design with business analytics, storytelling, and data visualization.
 
 ## Skills
