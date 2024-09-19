@@ -1,6 +1,7 @@
 # Hi there, I'm Lidia Jimeno Harvey 👋
 
-I'm a junior data analyst transitioning from a career in UI/UX design. I’m passionate about understanding user behavior and leveraging data for business growth.
+[comment]: <> (I'm a junior data analyst transitioning from a career in UI/UX design. I’m passionate about understanding user behavior and leveraging data for business growth.)
+Product designer turned Data analyst with 4+ years of experience delivering SaaS mobile apps and websites from 0 to 1 for more than 12 industries. Eager to leverage data analysis and visualization skills to drive growth and boost sales. Experienced identifying user frustration in the product funnel, and improving product task flows.
 
 ## About Me
 ✨ I’m fascinated by how data-driven insights can drive strategic decisions in user retention rates and business revenue growth.
