@@ -15,10 +15,5 @@ Product designer turned Data analyst with 4+ years of experience delivering SaaS
 - **Data Visualization and Storytelling:** Tableau, Power BI
 - **UX/UI Design:** Figma, Sketch, HTML, CSS
 
-[Comment]: <> (## Featured Project
-**E-commerce Marketing Analysis**
-- Analyzed business metrics to optimize marketing investments.
-- Provided actionable insights leading to a significant ROI improvement.)
-
 ## Let’s Connect! 
 [LinkedIn](https://www.linkedin.com/in/lidiajimeno/) | [Email](mailto:lidia.rj10@gmail.com)
